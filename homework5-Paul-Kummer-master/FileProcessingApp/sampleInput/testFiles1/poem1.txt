@@ -1,0 +1,11 @@
+﻿# Computer Programming Symbolize Life - Poem by Tyree Mitchell
+Computer programming can be a hassle
+It's like trying to take a defended castle
+When the program runs you shout with glee
+But when you get errors you cry with plea
+
+There are programming languages like C Plus Plus
+But then there are others that cause a fuss
+At the end of the day you may have something done
+But by the next day you restart all the fun 
+# End of the poem
