@@ -1,0 +1,53 @@
+This is a Short Text Doc
+
+***Test Characters***
+`1234567890-=
+	qwertyuiop[]\
+asdfghjkl;'
+zxcvbnm,./
+~!@#$%^&*()_+
+	QWERTYUIOP{}|
+ASDFGHJKL:"
+ZXCVBNM<>?
+
+***Test Escape***
+\;Console.WriteLine("Code Injection");
+
+***Test Scroll Horizontal***
+This Way To Scroll ---------------------------->                        ----------------->               ----------------->          -------->      --->      -------->         ----------------->                 ----------------->                                ---------------------------->
+
+***Test Vertical Scroll***
+This
+Way
+To
+Scroll
+  |
+  |
+  |
+  |
+  |
+ \|/
+
+
+
+
+
+
+  |
+  |
+  |
+  |
+  |
+ \|/
+
+
+
+
+
+
+  |
+  |
+  |
+  |
+  |
+ \|/
